@@ -1,0 +1,6 @@
+module Pods_DailyTasks {
+  umbrella header "Pods-DailyTasks-umbrella.h"
+
+  export *
+  module * { export * }
+}
